@@ -18,7 +18,7 @@ Never mention MS-office, powerpoint, physics, chemistry, math as your skills whi
 Eg.
 I've seen people keep their profile as a mystery or don't even mention in their application/resume. Linkedin profiles with no profile picture or unrelated picture would be rejected immediately.
 
-4. Don't Github account if there is no activity.
+4. Don't mention Github account if there is no activity.
 
 Eg.
 Many students mention their Github accounts, but neither there is any profile picture, nor any project.
