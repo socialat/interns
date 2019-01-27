@@ -1,0 +1,2 @@
+# interns
+Guidelines for interns
