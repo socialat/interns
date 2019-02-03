@@ -22,3 +22,8 @@ I've seen people keep their profile as a mystery or don't even mention in their 
 
 Eg.
 Many students mention their Github accounts, but neither there is any profile picture, nor any project.
+
+
+# TODO
+* Add the links for how to contribute in a repository on Github.
+* Add the links of websites, forums, communities who help intern developers for their initial contributions
