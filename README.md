@@ -1,7 +1,7 @@
 # interns
 Guidelines for interns
 
-I've seen many candidates/students applying for internship and I've noticed many things which are wrog in their application
+I've seen many candidates/students applying for internship and I've noticed many things which are wrong in their application
 
 1. You must be clear with your goal. Don't apply for the internship which can't help in achieving your goal
 
